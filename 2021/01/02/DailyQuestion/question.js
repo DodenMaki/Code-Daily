@@ -62,3 +62,6 @@ var maxSlidingWindow = function(nums, k) {
   return result;
 };
 
+module.exports = {
+  maxSlidingWindow,
+}
